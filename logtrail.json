@@ -42,9 +42,9 @@
         "mapping" : {
             "timestamp" : "@timestamp",
             "display_timestamp" : "@timestamp",
-            "hostname" : "host",
+            "hostname" : "host.keyword",
             "program": "_type",
-            "message": "message"
+            "message": "message.keyword"
         }
       }
     }
