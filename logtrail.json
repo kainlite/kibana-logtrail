@@ -44,7 +44,7 @@
             "display_timestamp" : "@timestamp",
             "hostname" : "host.keyword",
             "program": "_type",
-            "message": "message.keyword"
+            "message": "message"
         }
       }
     }
